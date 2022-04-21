@@ -1,0 +1,181 @@
+[
+    {
+        "id": 1,
+        "format": "slider",
+        "sliderThumb": [
+            {
+                "id": 1,
+                "thumb": "./img/blog/charity.jpg",
+                "image": "./img/blog/charity.jpg"
+            }
+        ],
+        "author": "Proteu5",
+        "date": "Dec, 3th, 2021",
+        "categories": ["Non-Profit", "Life Style"],
+        "title": "LCAH Charities",
+        "body": [
+            "<p class='text-block'>We at the LCAH are active in our community. We have been able on several notable occasions to donate to our chosen Mental Health Charities and Drug & Alcohol Rehabilitation Centers.</p>",
+            "<p>Mental Health and Substance Abuse Disorders go hand in hand and are often related.</p>",
+            "<ul><li><i class='icon_stop'></i>Mental Health America</li><li><i class='icon_stop'></i>Various In-Patient Rehabs</li><li><i class='icon_stop'></i>Growing List...</li></ul>",
+            "<p>Proteu5, is active in the mental health community and is giving back avidly.</p>"
+        ],
+        "tags": ["Donation", "Charity", "Giving", "Health"]
+    },
+    {
+        "id": 2,
+        "format": "thumbnail",
+        "media": {
+            "thumb": "./img/blog/collect.jpg",
+            "images": "./img/blog/collect.jpg"
+        },
+        "author": "Michael Cohee",
+        "date": "Dec, 4th, 2021",
+        "categories": ["Collect", "Technology"],
+        "title": "The Urge To Collect",
+        "body": [
+            "<p class='text-block'>I think I was only five when I started collecting soda caps, older cola bottles peaked my interest. I later moved onto stamps, but that wasn't so hot in school. Pokemon was big for my generation, along with the classic, baseball cards as well.</p>",
+            "<p>As I got older I began to collect rare books on trips into Manhattan. I was always on the hunt. A little later on, I read a book, The Swerve, about Poggio, the Book Hunter. He was credited with discovering De Rerum Natura or On The Nature of Things, a latin piece on philosophy. Once re-discovered, the book cause a Swerve in the way of thought for an entire era and change the course of human history.</p>",
+            "<p class='mb-30'>As I began working, my taste for collecting grew to art. The traditional art industry was difficult to break into at the high levels, but I could still dream, with various visits to the Peter Lik gallery in SoHo.</p>",
+            "<p>In 2020 I discovered Digital Art, or CryptoArt built on the technology known as NFTs or Blockchain. I saw it, a Swerve happening before my eyes. I got busy and fast.</p>",
+            "<p>I felt like an Poggio, hunting for rare books on the marketplaces of the Metaverse. We didn't know what would be vaulable tomorrow, we just collected what we loved. Come today, December 4th 2021, the Collective has amassed a humble collection of just over 200 Artifacts.</p>",
+            "<p>In accordance with Malcom Gladwell's podcast on a Revisionist History: Dragon Psychology 101, we stand firm by the philosophy of See Note:A on our balance sheets. Meaning that we can not disclose a value for the entirety of the collection. Mainly and simply because one can not value priceless work, and to put a number on it, to quantify art take away from its beauty.</p>",
+            "<p>Dragon Psychology 101 also goes on to make note of the Art Galleries around the world and their notion to never sell their work and hoard pieces in a vault like a Dragon would its gold. The Lineage collection spans several networks, countless marketplaces, and numerous vaults. None of us know where this journey will end, but we see a bright future in the technology of Blockchain, Ethereum, Web3 and NFTs.</p>"
+        ],
+        "tags": ["Collecting", "Technology", "History"]
+    },
+    {
+        "id": 3,
+        "format": "thumbnail",
+        "media": {
+            "thumb": "./img/blog/hoard.jpg",
+            "images": "./img/blog/hoard.jpg"
+        },
+        "author": "Proteu5",
+        "date": "December, 4th, 2021",
+        "categories": ["Finance", "Art"],
+        "title": "Defending The Hoard",
+        "body": [
+            "<p class='text-block'>The Art Collecting branch of Lineage is my favorite. I do my collecting under a pseudonymous identity online. That persona, has become my reality. Naturally, with any new movement, there will be nay-sayers. It would be wrong of me to reveal what I know about the industry in an preemptive attack before the initial attack was had. I will keep the facts broad and away from the vaults for now.</p>",
+            "<p>Several analytic databases were created, these are their numbers:</p>",
+            "<ul><li><i class='icon_stop'></i>Opensea Monthly Volume: Oct 1st = $3,426,334,566.05</li><li><i class='icon_stop'></i>SuperRare 30Day Volume Avg: $17,957,803.00</li><li><i class='icon_stop'></i>Sandbox Metaverse Land(Market Cap): 105,171.2 ETH or $428,826,383.85</li></ul>",
+            "<p class='mb-30'>When we started in this space, Ethereum was $300/ETh - Today it hovers around $4,500. The facts shouldn't matter. We don't collect to profit. We collect as archivists.</p>",
+            "<p>The value we put on our relationships with the artists and their art greatly outweighs any profits to be had. However, if I can entice you with numbers, I give you the latter.</p>"
+        ],
+        "tags": ["Finance", "Technology", "Art", "Artist"]
+    },
+    {
+        "id": 4,
+        "format": "thumbnail",
+        "media": {
+            "thumb": "./img/blog/lisa2.jpg",
+            "images": "./img/blog/lisa2.jpg"
+        },
+        "author": "Michael Cohee",
+        "date": "December, 4th, 2021",
+        "categories": ["NFT", "Art"],
+        "title": "Look Ma, I Own The Mona Lisa",
+        "body": [
+            "<p class='text-block'>On August 25h 2017, I took a train from London to Paris. It was there that I photographed and stole the Mona Lisa...</p>",
+            "<p>There is more to art than just a .JPG, and yes you can Right-Click our collection. No I'm not showcasing the other 200 pieces because I'm afraid you will steal them. We're holding them back out of humility. More often than not, as the wallet holder of these NFT Works of Art, LCAH own the rights to the artworks, in some cases, we even own the commercial rights.</p>",
+            "<p class='mb-30'>I would be feel flattered if you liked the work we collected enough to steal it. Remember, though, the vault address that these wallets reside at, does stand up legally as ownership.</p>",
+            "<p>But, isn't it enough to just see the art? Do you really have to own it? Yes, we do. If I gave you a Picasso before he was famous what would you do if you knew he was going to be famous. This is how we treat all of our collected artists. One most, if not all ocassions, Proteu5 has engagged in personal contact and communication directly with each artist. I can raise so many questions as to what drives Market Value, Liqudity, and Intrinsic Value of the art piece.</p>",
+            "<p>Who then sets the value if a piece is never sold? The Artist at the initial sale, or the collector holding the 1/1 unique piece? We've been graced with the opporutunity to be able to shop at Christies and Sotheby's auction houses. If you would have told me that five and half years ago I would be curating an Art Collective with artwork from the leading global auction houses and hold a collection of art during a Revolutionary Epoch...well I would just have to laugh and slap you in the face. Never, in my entire life and past life could I have predicted this.</p>",
+            "<p>With that being said, I am utterly greatful beyond all comprehension to be the head of the LCAH and holder of Relationships with the artists that we know. \"The <i>Collector</i> becomes the <i>\"Curator\"</i>, becomes the <i>\"Artist\"</i>.</p>",
+            "<p>This Epoch is truely astounding, we are witnessing artists amass a fountune in their lifetimes. Fame is being had exponientially faster and before death. Artists are able to see the beauty that Picasso and Da Vinci never saw, beauty in the art that we know today.</p>",
+            "<p>We grew up in this space together, and just to keep things in perspective, LCAH holds 200+ works. Another that we know of, publically holds over 400,000 in his collection across many wallets. We are but a drop in the vast ocean.</p>"
+        ],
+        "tags": ["Art"]
+    },
+    {
+        "id": 5,
+        "format": "slider",
+        "sliderThumb": [
+            {
+                "id": 1,
+                "thumb": "./img/blog/gen01.jpeg",
+                "image": "./img/blog/gen01.jpeg"
+            },
+            {
+                "id": 2,
+                "thumb": "./img/blog/gen02.gif",
+                "image": "./img/blog/gen02.gif"
+            },
+            {
+                "id": 3,
+                "thumb": "./img/blog/gen03.png",
+                "image": "./img/blog/gen03.png"
+            }
+        ],
+        "author": "Michael Cohee",
+        "date": "December, 5th, 2021",
+        "categories": ["NFT", "Artist"],
+        "title": "Programmer, Collector, Curator...Artist?",
+        "body": [
+            "<p class='text-block'>I grew up around art my whole life. My parents came from humble beginnings and I did grow up in a wholesome enviorment. It was commonplace to me, to see the Salvidar Dali's hanging on the wall. I never use to pay much attention to them, but I did learn to use pastels and oil paints at the age of five.</p>",
+            "<p>I learned about the history of art and the key artists when I was young, before school. When I went to classes I must have come off as some art snob, but I was just happy to know something in class \"haha\". My mother was a painter and my father a Tradesmen, turned business owner. Before my Mother went on to teach Art professionally, I can recall from my youth her doing several final pieces.</p>",
+            "<p>I don't think she had a motive or mission with my art studies to make into anything in particiular, but I did pursue Psychology & Business & IT professionally. On the side remained a passion, knowledge, and eye for art.</p>",
+            "<p>When we useto play the boardgame \"Life\" as children I always wanted to make the most money, naturally, and the professional that paid the highest salary on our edition was, \"Artist: $100,000/yr\". Everyone at school told me I was stupid, but I won the game every time I played that career.</p>",
+            "<p align=\"center\"><i><b>...so if you don't mind me, I'll make my move now...</b></i></p>",
+            "<p>I found as I grew up, drawing to be difficult because of my ADHD, until my HS art teacher showed me a few tricks for focus when drawing. This set me free. I also took a liking towards photography and was on Photoshop at the age of twelve. Later in life this proved most useful. One of the most valuable things I learned to develop was my \"Inner Astetic Eye\". I only found trouble in my late 20s and Early 30's replicating what I saw in my mind on canvass/computer screen.</p>",
+            "<p>I began to explore AI Generative Art and Programmable Python art after making friends with an artist, Pr1mal Cypher. I took his advice and made the two pieces you see above with Python Code and Phtoshop. They're based oncryptographic algorithms</p>",
+            "<p align=\"center\"><b><i>\"Know your medium, and bend it.\"</b></i></p>",
+            "<p align=\"center\"><b>-Pak</b></p>",
+            "<p>I never listed those two pieces for sale. They are under a third pseudonymous persona that I created, my Artist Persona, online. Maybe for my birthday today I'll feel my inner child, do some art, and get the courage to list those pieces for sale.</p>"
+        ],
+        "tags": ["Art"]
+    },
+    {
+        "id": 5,
+        "format": "slider",
+        "sliderThumb": [
+            {
+                "id": 1,
+                "thumb": "./img/blog/vault.jpg",
+                "image": "./img/blog/vault.jpg"
+            },
+            {
+                "id": 2,
+                "thumb": "./img/blog/m.png",
+                "image": "./img/blog/m.png"
+            }
+        ],
+        "author": "Michael Cohee",
+        "date": "December, 5th, 2021",
+        "categories": ["NFT", "Vault"],
+        "title": "From Programmer to Vault Owner",
+        "body": [
+            "<p class='text-block'>March of 2020 Marked the inception of our first vault, since then we have grown our collection across networks and platforms.</p>",
+            "<p class='mb-30'>\"What is a vault\"? - A vault is a secure wallet on the blockchain that is the home address of a collection:</p>",
+            "<ul><li><i class='icon_stop'></i>Vault One: 0x007//Proteu5.Eth (Ethereum-1) >= 215 </li><li><i class='icon_stop'></i>Vault Two: 0xd98d6f (Ethereum-2) >= 7</li><li><i class='icon_stop'></i>Vault Three: tz1W98ie (Tezos - 1) >= 46</li><li><i class='icon_stop'></i>Vault Four: NiftyGatewayVault (Ethereum - 3) >= 12</li><li><i class='icon_stop'></i>Vault Five: 0xInit (Ethereum - 4) >= 65</li><li><i class='icon_stop'></i>Total Non-Fungible Assets Owned: >= 345</li></ul><ul><li><li><i class='icon_stop'></i>Current Most Valuable & <i>Liquid</i> Asset: Sandbox LAND Plot (124, 105):</li><ul><li><i class='icon_stop'></i>Paid: 0.5485Eth ($2,307.84) - [When No One Else Would]</li><li><i class='icon_stop'></i>Worth: 10Eth ($42,075.50) - [An Item 1 of 215]</li></ul></li><li><i class='icon_stop'></i>Current Most Valuable Art Piece: ...<ul><li><li><i class='icon_stop'></i>...That's like asking me to pick my favorite child</li></ul></li><li><li><i class='icon_stop'></i>I wanted to put my collection in perspective. We many not own 400,000 NFTs like our counterpart and running-mate, but we do own a powerful collection. I wanted to highlight one single asset, the Sandbox land as a <i>Liquid Asset</i>, just because others many be less liquid, does not mean they have less value. Remember, when you procure & buy an NFT, you plan on owning for 10+ years as a rule of thumb. We plan to hold much longer anyway.</li></ul><ul><li><i class='icon_stop'></i>Most Recent Purchase: \"Merge:Mass\" by Pak (Pictured Above) - Total Cost: $800.00</li></ul>",
+            "<p>We manage a few other wallets but have felt no need to list them.</p>",
+            "<p>Remember, I started this journey as a programmer taking a 100DaysOfCode challenge in the <i>Solidity Language</i>. When I discovered the ERC-721 Token Standard and the ERC-1155 become popular I had already liquidated my <i>Crypto Holdings</i> and began collecting. The trick was, to thrive and continue collecting. In effect, I dollar-cost-averaged my paycheck and side-business to fund our NFT collecting. Don't worry, it was only $12.50/week. Yes, we built this on $12.50 a week.</p>",
+            "<p>With all of that being said, today is my <b>Birthday( 31 )</b>! Being the founder of the LCAH means I can sit-back in a way, but being a Developer for Meta-Tree Development means, I'll be working on Sunday, on My Birtday, for the Meta-Verse and I wouldn't have it any other way. It's a choice and one I stand by firmly. Besides, who else is going to fund our IRL (In Real Life) Art Gallery.</p>",
+            "<p>...And you all thought I was crazy...I'm not crazy, I'm Insane. Yet, I'm still a <i>Minnow</i> among a sea of <i>Whales</i>.</p>",
+            "<p>With that, I bid you all <i>Adieu</i>, and remember...<quote><i>\"Art is not what you see, but what you make others see.\"</quote></i></p>",
+            "<p align=\"right\"><b>-Edgar Degas</b></p>"
+        ],
+        "tags": ["Art"]
+    },
+    {
+        "id": 6,
+        "format": "thumbnail",
+        "media": {
+            "thumb": "./img/blog/femme.jpeg",
+            "images": "./img/blog/femme.jpeg"
+        },
+        "author": "Proteu5",
+        "date": "December, 5th, 2021",
+        "categories": ["NFT", "Fractional"],
+        "title": "Female Figure: Fractional Art",
+        "body": [
+            "<p class='text-block'>Female Figure is the first NFT Art Piece that I collected on SuperRare. It is being left off the portfolio page because It is being sold <i>fractionally</i>.</p>",
+            "<p>In summary, what this means is that the NFT was vaulted in a 3rd-Party custodial vault and split into 3,000 FEMME ERC-20 Ethereum Tokens. 10% of the tokens were given to the original artist as a royalty. The other 2,700 FEMME sit in one of our vaults.</p>",
+            "<p>When the time is right, we will create a liquidity pair of ETH/FEMME on Uniswap. This will assign a tangible value to the FEMME Tokens or Fractions of the NFT.</p>",
+            "<p>The Stats:</p>",
+            "<p><ul><li><i class='icon_stop'></i>Total Fractions: 3,000 FEMME</li><li><i class='icon_stop'></i>Distributed: 300 FEMME</li><li><i class='icon_stop'></i>Remaining Fractions: 2,700 FEMME</li><li><i class='icon_stop'></i>Reserve Price: 36ETH</li></ul></p>",
+            "<p>The community of collectors and holders of the Female-Figure-Fractions will then have a claimable share to sale of the NFT. The Auction begins after a Reserve Price of 36ETH is met.</p>",
+            "<p align=\"center\"><b>Female-Figure:</b> <a href=\"https://fractional.art/vaults/female-figure\">Fractional.Art</a></p>"
+        ],
+        "tags": ["Art"]
+    }
+]

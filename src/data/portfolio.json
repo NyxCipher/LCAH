@@ -1,0 +1,940 @@
+[
+    {
+        "id": 1,
+        "type": "image",
+        "homeImage": "img/portfolio/rose.gif",
+        "title": "City Flight",
+        "excerpt": "Asignee: Brittany Phoenix",
+        "categories": ["featured", "new added"],
+        "client": "One",
+        "date": "January 28th <br />2019",
+        "team": "By: Roses",
+        "services": "SuperRare",
+        "body": [
+            "<p>A Starting Birthday Gift to my Girlfriend</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://superrare.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/rose.gif",
+            "imageTwo": "./img/portfolio/error.png",
+            "imageThree": "./img/portfolio/s3.png",
+            "imageFour": "./img/portfolio/sv1.png",
+            "imageFive": "./img/portfolio/error.png"
+        }
+    },
+    {
+        "id": 2,
+        "type": "image",
+        "homeImage": "img/portfolio/zen.jpg",
+        "title": "EyeOfZen",
+        "excerpt": "A system of cells interlinked within cells interlinked within cells interlinked within one stem...",
+        "categories": ["popular", "nature"],
+        "client": "One",
+        "date": "February 26th <br />2020",
+        "team": "By: Antondee",
+        "services": "SuperRare",
+        "body": [
+            "<p>A system of cells interlinked within cells interlinked within cells interlinked within one stem... And dreadfully distinct against the dark, a tall white fountain played.</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://SuperRare.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/zen.jpg",
+            "imageTwo": "./img/portfolio/error.png",
+            "imageThree": "./img/portfolio/s3.png",
+            "imageFour": "./img/portfolio/sv1.png",
+            "imageFive": "./img/portfolio/error.png"
+        }
+    },
+    {
+        "id": 3,
+        "type": "image",
+        "homeImage": "img/portfolio/pr1mal/opression.gif",
+        "title": "ARCHITECTURE OF OPPRESSION I.",
+        "excerpt": "This lovely piece is inspired by Edward Snowdn and his brave and astonishing fight aginst the architecture of oppresion.",
+        "categories": ["popular", "cyberpunk"],
+        "client": "One",
+        "date": "April 29th <br />2020",
+        "team": "By: Pr1mal Cypher",
+        "services": "SuperRare",
+        "body": [
+            "<p>This lovely piece is inspired by Edward Snowdn and his brave and astonishing fight aginst the architecture of oppresion.  I still show him respect for his courageus decisio to represent the truth and to place his own life under the good of all!</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://SuperRare.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/pr1mal/opression.gif",
+            "imageTwo": "./img/portfolio/pr1mal/null.jpg",
+            "imageThree": "./img/portfolio/null.jpg",
+            "imageFour": "./img/portfolio/null.jpg",
+            "imageFive": "./img/portfolio/null.jpg"
+        }
+    },
+    {
+        "id": 4,
+        "type": "image",
+        "homeImage": "img/portfolio/glitch.gif",
+        "title": "Glitched Reveal #1",
+        "excerpt": "Photo taken from my library, glitch animation added to reveal photo.",
+        "categories": ["popular", "glitch"],
+        "client": "One",
+        "date": "October 13th <br />2020",
+        "team": "By: MightyMoose",
+        "services": "SuperRare",
+        "body": [
+            "<p>Photo taken from my library, glitch animation added to reveal photo.</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://SuperRare.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/glitch.gif",
+            "imageTwo": "./img/portfolio/error.png",
+            "imageThree": "./img/portfolio/s3.png",
+            "imageFour": "./img/portfolio/sv1.png",
+            "imageFive": "./img/portfolio/error.png"
+        }
+    },
+    {
+        "id": 5,
+        "type": "image",
+        "homeImage": "img/portfolio/sign.png",
+        "title": "FAIRYTALES ☹",
+        "excerpt": "This piece resembles that happily ever after.",
+        "categories": ["popular", "photography"],
+        "client": "One",
+        "date": "April 24th <br />2021",
+        "team": "By: _SadSigns",
+        "services": "Rarible",
+        "body": [
+            "<p>This piece resembles that happily ever after. It's a place that we grow up dreaming about but lose hope of as we get older and more jaded.</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://Rarible.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/sign.png",
+            "imageTwo": "./img/portfolio/error.png",
+            "imageThree": "./img/portfolio/s3.png",
+            "imageFour": "./img/portfolio/sv1.png",
+            "imageFive": "./img/portfolio/error.png"
+        }
+    },
+    {
+        "id": 6,
+        "type": "image",
+        "homeImage": "img/portfolio/raw22.jpg",
+        "title": "Ocean Raw #22",
+        "excerpt": "Ocean Raw is a 1/1 collection of work dedicated to showcasing the raw energy of the ocean from a unique perspective.",
+        "categories": ["popular", "photography"],
+        "client": "One",
+        "date": "September 29th <br />2021",
+        "team": "By: timmboslice_",
+        "services": "OpenSea",
+        "body": [
+            "<p>Ocean Raw is a 1/1 collection of work dedicated to showcasing the raw energy of the ocean from a unique perspective. Drone exploration has allowed me view the ocean from above and capture natures bath in all its glory. <br />This exclusivity leads to a truly unmatched feeling as you look over everything below. There is something incredibly humbling about viewing the ocean from above. I want you to feel the raw energy, but most importantly find something new each time you look at the scenes; as if you were there in person.</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://Opensea.io",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/raw22.jpg",
+            "imageTwo": "./img/portfolio/error.png",
+            "imageThree": "./img/portfolio/s3.png",
+            "imageFour": "./img/portfolio/sv1.png",
+            "imageFive": "./img/portfolio/error.png"
+        }
+    },
+    {
+        "id": 7,
+        "type": "image",
+        "homeImage": "img/portfolio/arte.png",
+        "title": "Painting #5287",
+        "excerpt": "This is painting #5287. Its full digital image (7680x4320 pixels)...",
+        "categories": ["Crypto", "Classics"],
+        "client": "Two",
+        "date": "August 12th <br />2021",
+        "team": "By: CryptoArte",
+        "services": "OpenSea",
+        "body": [
+            "<p>This is painting #5287. This painting represents block numbers 3045312 through 3045887, and the time period starting on 2017-01-22 21:52:00 UTC and ending on 2017-01-23 00:08:32 UTC.</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://www.cryptoarte.io/paintings/5287",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/arte.png",
+            "imageTwo": "./img/portfolio/error.png",
+            "imageThree": "./img/portfolio/s3.png",
+            "imageFour": "./img/portfolio/sv1.png",
+            "imageFive": "./img/portfolio/error.png"
+        }
+    },
+    {
+        "id": 8,
+        "type": "image",
+        "homeImage": "img/portfolio/pepen.gif",
+        "title": "PEPENUKES - Origional Rare Pepe",
+        "excerpt": "PEPENUKES - Origional Rare Pepe - Series 10, Card 32",
+        "categories": ["classic", "meme"],
+        "client": "Two",
+        "date": "August 30th <br />2021",
+        "team": "Brokered By: Emblem Vault",
+        "services": "Opensea",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://Opensea.io",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/pepen.gif",
+            "imageTwo": "./img/portfolio/error.png",
+            "imageThree": "./img/portfolio/s3.png",
+            "imageFour": "./img/portfolio/sv1.png",
+            "imageFive": "./img/portfolio/error.png"
+        }
+    },
+    {
+        "id": 9,
+        "type": "image",
+        "homeImage": "img/portfolio/sss.jpg",
+        "title": "SuperlativeSS #6533",
+        "excerpt": "SuperlativeSS are collectible #NFTs with Real World Utility...",
+        "categories": ["popular", "pfp"],
+        "client": "Two",
+        "date": "September 22nd <br />2021",
+        "team": "By: Superlative SS",
+        "services": "OpenSea",
+        "body": [
+            "<p>SuperlativeSS are collectible #NFTs with Real World Utility. Inspired by primary personality traits. SuperlativeSS has been built by a passionate team and a powerful grassroots community. The project offers incredible utility and is dedicated to supporting the next generation of artists.</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://Opensea.io",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/sss.jpg",
+            "imageTwo": "./img/portfolio/error.png",
+            "imageThree": "./img/portfolio/s3.png",
+            "imageFour": "./img/portfolio/sv1.png",
+            "imageFive": "./img/portfolio/error.png"
+        }
+        
+    },
+    {
+        "id": 10,
+        "type": "image",
+        "homeImage": "img/portfolio/l4l.gif",
+        "title": "To you; i'm addicted",
+        "excerpt": "To you; i’m addicted. Forever.",
+        "categories": ["popular", "art"],
+        "client": "One",
+        "date": "October 5th <br />2021",
+        "team": "By: LoveIs4Lovers",
+        "services": "OpenSea",
+        "body": [
+            "<p>To you; i’m addicted. Forever.</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://Opensea.io",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/l4l.gif",
+            "imageTwo": "./img/portfolio/error.png",
+            "imageThree": "./img/portfolio/s3.png",
+            "imageFour": "./img/portfolio/sv1.png",
+            "imageFive": "./img/portfolio/error.png"
+        }
+        
+    },
+    {
+        "id": 11,
+        "type": "image",
+        "homeImage": "img/portfolio/gold.jpg",
+        "title": "Golden Iris",
+        "excerpt": "Golden Iris",
+        "categories": ["popular", "art"],
+        "client": "One",
+        "date": "October 20th <br />2020",
+        "team": "By: Maikeul",
+        "services": "KnownOrigin",
+        "body": [
+            "<p>Golden Iris</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://KnownOrigin.io",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/gold.jpg",
+            "imageTwo": "./img/portfolio/error.png",
+            "imageThree": "./img/portfolio/s3.png",
+            "imageFour": "./img/portfolio/sv1.png",
+            "imageFive": "./img/portfolio/error.png"
+        }
+        
+    },
+    {
+        "id": 12,
+        "type": "image",
+        "homeImage": "img/portfolio/light.gif",
+        "title": "got a light?",
+        "excerpt": "got a light?",
+        "categories": ["tez", "art"],
+        "client": "Three",
+        "date": "October <br />2020",
+        "team": "By: Femiki",
+        "services": "Objkt",
+        "body": [
+            "<p>got a light. I lost mine. - remix ver.1 of an unreleased artwork from 2019.</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://objkt.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/light.gif",
+            "imageTwo": "./img/portfolio/error.png",
+            "imageThree": "./img/portfolio/s3.png",
+            "imageFour": "./img/portfolio/sv1.png",
+            "imageFive": "./img/portfolio/error.png"
+        }
+        
+    },
+    {
+        "id": 13,
+        "type": "image",
+        "homeImage": "img/portfolio/dive.gif",
+        "title": "N0429",
+        "excerpt": "N0429",
+        "categories": ["tez", "art"],
+        "client": "Three",
+        "date": "October <br />2021",
+        "team": "By: Max Capacity",
+        "services": "Objkt",
+        "body": [
+            "<p>N0429</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://objkt.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/dive.gif",
+            "imageTwo": "./img/portfolio/error.png",
+            "imageThree": "./img/portfolio/s3.png",
+            "imageFour": "./img/portfolio/sv1.png",
+            "imageFive": "./img/portfolio/error.png"
+        }
+        
+    },
+    {
+        "id": 14,
+        "type": "image",
+        "homeImage": "img/portfolio/artifact.jpeg",
+        "title": "Dracula",
+        "excerpt": "Dracula",
+        "categories": ["tez", "art"],
+        "client": "Three",
+        "date": "October <br />2021",
+        "team": "By: Rezaafshar",
+        "services": "Objkt",
+        "body": [
+            "<p>N0429</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://objkt.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/artifact.jpeg",
+            "imageTwo": "./img/portfolio/error.png",
+            "imageThree": "./img/portfolio/s3.png",
+            "imageFour": "./img/portfolio/sv1.png",
+            "imageFive": "./img/portfolio/error.png"
+        }
+        
+    },
+    {
+        "id": 15,
+        "type": "image",
+        "homeImage": "img/portfolio/sunday.png",
+        "title": "Sunday Afternoon #83/240",
+        "excerpt": "A Book of Little Dreams Open Editions by Ted Chin x SwolfChan",
+        "categories": ["popular", "art"],
+        "client": "Four",
+        "date": "June 10th<br />2021",
+        "team": "By: TedsLittleDream x SwolfChan",
+        "services": "NiftyGateway",
+        "body": [
+            "<p>A Book of Little Dreams Open Editions by Ted Chin x SwolfChan</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://NiftyGateway.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/sunday.png",
+            "imageTwo": "./img/portfolio/error.png",
+            "imageThree": "./img/portfolio/s3.png",
+            "imageFour": "./img/portfolio/sv1.png",
+            "imageFive": "./img/portfolio/error.png"
+        }
+        
+    },
+    {
+        "id": 16,
+        "type": "image",
+        "homeImage": "img/portfolio/podGan.gif",
+        "title": "vibrant sep7epod (502/1023)",
+        "excerpt": "Something has gone terribly wrong. The portal at the bitGAN forge unexpectedly opened to an alternate dimension...",
+        "categories": ["popular", "art", "AI"],
+        "client": "One",
+        "date": "November 16th<br />2021",
+        "team": "By: BrainDrops",
+        "services": "OpenSea",
+        "body": [
+            "<p>Something has gone terribly wrong. The portal at the bitGAN forge unexpectedly opened to an alternate dimension and 1024 alien creatures came flooding through. It is unclear why they have come or what they want. All we know is that they call themselves the podGANs.</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://Opensea.io",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/podGan.png",
+            "imageTwo": "./img/portfolio/error.png",
+            "imageThree": "./img/portfolio/s3.png",
+            "imageFour": "./img/portfolio/sv1.png",
+            "imageFive": "./img/portfolio/error.png"
+        }
+        
+    },
+    {
+        "id": 17,
+        "type": "image",
+        "homeImage": "img/portfolio/dream.png",
+        "title": "Dream Progress",
+        "excerpt": "Rendition",
+        "categories": ["popular", "art"],
+        "client": "One",
+        "date": "November 25th<br />2021",
+        "team": "By: Onion.Waves",
+        "services": "Foundation",
+        "body": [
+            "<p>// RENDER 128 // e s c a l a t o r // 2160 x 2700 // 5:4 //</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://foundation.app",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/dream.png",
+            "imageTwo": "./img/portfolio/error.png",
+            "imageThree": "./img/portfolio/s3.png",
+            "imageFour": "./img/portfolio/sv1.png",
+            "imageFive": "./img/portfolio/error.png"
+        }
+        
+    },
+    {
+        "id": 18,
+        "type": "image",
+        "homeImage": "img/portfolio/fly.jpeg",
+        "title": "Fly",
+        "excerpt": "Fly",
+        "categories": ["popular", "art"],
+        "client": "One",
+        "date": "October 23rd<br />2021",
+        "team": "By: saeed_afm",
+        "services": "Foundation",
+        "body": [
+            "<p>What are you doing to me? he asked the crow, tearful. Teaching you how to fly. I can’t fly! You’re flying right now. I’m falling! Every flight begins with a fall, the crow said. ― George R.R. Martin</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://foundation.app",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/fly.jpeg",
+            "imageTwo": "./img/portfolio/error.png",
+            "imageThree": "./img/portfolio/s3.png",
+            "imageFour": "./img/portfolio/sv1.png",
+            "imageFive": "./img/portfolio/error.png"
+        }
+        
+    },
+    {
+        "id": 19,
+        "type": "image",
+        "homeImage": "img/portfolio/apemo.jpeg",
+        "title": "Captain Apemo",
+        "excerpt": "Captain Apemo - Genesis by Jose Delbo",
+        "categories": ["popular", "art"],
+        "client": "Four",
+        "date": "September 20th<br />2021",
+        "team": "By: Jose Delbo",
+        "services": "NiftyGateway",
+        "body": [
+            "<p>Captain Apemo - Genesis by Jose Delbo</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://niftygateway.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/apemo.jpeg",
+            "imageTwo": "./img/portfolio/error.png",
+            "imageThree": "./img/portfolio/s3.png",
+            "imageFour": "./img/portfolio/sv1.png",
+            "imageFive": "./img/portfolio/error.png"
+        }
+        
+    },
+    {
+        "id": 20,
+        "type": "image",
+        "homeImage": "img/portfolio/lp9.jpeg",
+        "title": "Lost Plane #9",
+        "excerpt": "Title: Red Knight",
+        "categories": ["popular", "photography"],
+        "client": "One",
+        "date": "September 20th<br />2021",
+        "team": "By: Kurt Jurgen",
+        "services": "Opensea",
+        "body": [
+            "<p>Title: Red Knight</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://Opensea.io",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/lp9.jpeg",
+            "imageTwo": "./img/portfolio/error.png",
+            "imageThree": "./img/portfolio/s3.png",
+            "imageFour": "./img/portfolio/sv1.png",
+            "imageFive": "./img/portfolio/error.png"
+        }
+        
+    },
+    {
+        "id": 21,
+        "type": "image",
+        "homeImage": "img/portfolio/lost2.jpeg",
+        "title": "Lost Plane #2",
+        "excerpt": "Title: Lost Planes Token #2",
+        "categories": ["popular", "photography"],
+        "client": "One",
+        "date": "November 2nd<br />2021",
+        "team": "By: Kurt Jurgen",
+        "services": "Opensea",
+        "body": [
+            "<p>Title: Lost Planes Token #2</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://Opensea.io",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/lost2.jpeg",
+            "imageTwo": "./img/portfolio/error.png",
+            "imageThree": "./img/portfolio/s3.png",
+            "imageFour": "./img/portfolio/sv1.png",
+            "imageFive": "./img/portfolio/error.png"
+        }
+        
+    },
+    {
+        "id": 22,
+        "type": "image",
+        "homeImage": "img/portfolio/bali.jpeg",
+        "title": "Title: Bali Dreaming",
+        "excerpt": "Location: Bali, Indonesia",
+        "categories": ["popular", "photography"],
+        "client": "One",
+        "date": "September 20th<br />2021",
+        "team": "By: Lolahubner",
+        "services": "Opensea",
+        "body": [
+            "<p>You really can't plan a special moment. They just catch you off guard. If you're lucky, you might be able to save that moment forever.</p>",
+
+            "<p>This collection is about reminiscing on a moment in time, reliving past moments as they once were. A Moment Forever symbolises my journey to distant places, capturing some of the most surreal landscapes along the way.</p>",
+            
+            "<p>The idea behind this collection is to invite you on a journey to experience the beautiful wonders of our world through my eyes. These are some of my favourite moments that I have captured as a photographer from the past 4 years and I'm beyond excited that I'm able to share them with you!</p>",
+            
+            "<p>Each image is a 1/1 and the first collector of each NFT will be airdropped a unique companion piece featuring the story behind their image.</p>"
+        ],
+        "pageUrl": {
+            "text": "https://Opensea.io",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/bali.jpeg",
+            "imageTwo": "./img/portfolio/error.png",
+            "imageThree": "./img/portfolio/s3.png",
+            "imageFour": "./img/portfolio/sv1.png",
+            "imageFive": "./img/portfolio/error.png"
+        }
+        
+    },
+    {
+        "id": 23,
+        "type": "image",
+        "homeImage": "img/portfolio/entity.gif",
+        "title": "Entity 2",
+        "excerpt": "Entity 2",
+        "categories": ["abstract"],
+        "client": "One",
+        "date": "Feburary 20th<br />2021",
+        "team": "By: Compusophy",
+        "services": "Rarible",
+        "body": [
+            "<p>A Gift From Compusophy</p>"
+        ],
+        "pageUrl": {
+            "text": "https://Rarible.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/entity.gif",
+            "imageTwo": "./img/portfolio/error.png",
+            "imageThree": "./img/portfolio/s3.png",
+            "imageFour": "./img/portfolio/sv1.png",
+            "imageFive": "./img/portfolio/error.png"
+        }
+        
+    },
+    {
+        "id": 24,
+        "type": "video",
+        "homeImage": "img/portfolio/deadmau5.png",
+        "videoUrl": "https://media.niftygateway.com/video/upload/q_auto:best,w_1600/v1614732889/A/DeadmauSlick/Blackhole_Edition_jmixpc.mp4",
+        "title": "Blackhole Edition #191/242",
+        "excerpt": "Slickmau5 Open Editions by deadmau5 x OG Slick",
+        "categories": ["music"],
+        "client": "Four",
+        "date": "April 4th <br />2021",
+        "team": "By: Deadmau5 x OG Slick",
+        "services": "Niftygateway",
+        "body": [
+            "<p>Slickmau5 Open Editions by deadmau5 x OG Slick</p>"
+        ],
+        "pageUrl": {
+            "text": "https://Niftygateway.com",
+            "link": "https://media.niftygateway.com/video/upload/q_auto:best,w_1600/v1614732889/A/DeadmauSlick/Blackhole_Edition_jmixpc.mp4"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/deadmau5.png",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 25,
+        "type": "video",
+        "homeImage": "img/portfolio/satoshi1.png",
+        "videoUrl": "https://media.niftygateway.com/video/upload/q_auto:best,w_1600/v1618355389/A/EncodeGraphics/OpenEditions/SATOSH1_and_the_citadel_skyline_animated_version_u8zdde.mp4",
+        "title": "SATOSH1 and the Citadel Skyline",
+        "excerpt": "SATOSH1 and the Citadel Skyline (animated version) #4/29",
+        "categories": ["ENCODE"],
+        "client": "Four",
+        "date": "April 17th <br />2021",
+        "team": "By: ENCODE",
+        "services": "Niftygateway",
+        "body": [
+            "<p>SATOSH1 and the Citadel Skyline (animated version) #4/29</p>"
+        ],
+        "pageUrl": {
+            "text": "https://Niftygateway.com",
+            "link": "https://media.niftygateway.com/video/upload/q_auto:best,w_1600/v1618355389/A/EncodeGraphics/OpenEditions/SATOSH1_and_the_citadel_skyline_animated_version_u8zdde.mp4"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/satoshi1.png",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 26,
+        "type": "video",
+        "homeImage": "img/portfolio/satoshi2.png",
+        "videoUrl": "https://media.niftygateway.com/video/upload/q_auto:good,w_500/v1618355196/A/EncodeGraphics/OpenEditions/SATOSH1_the_Architect_animated_version_uwcksy.mp4",
+        "title": "SATOSH1 the Architekt",
+        "excerpt": "SATOSH1 the Architekt (animated version) #5/26",
+        "categories": ["ENCODE"],
+        "client": "Four",
+        "date": "April 17th <br />2021",
+        "team": "By: ENCODE",
+        "services": "Niftygateway",
+        "body": [
+            "<p>SATOSH1 the Architekt (animated version) #5/26</p>"
+        ],
+        "pageUrl": {
+            "text": "https://Niftygateway.com",
+            "link": "https://media.niftygateway.com/video/upload/q_auto:good,w_500/v1618355196/A/EncodeGraphics/OpenEditions/SATOSH1_the_Architect_animated_version_uwcksy.mp4"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/satoshi2.png",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 27,
+        "type": "video",
+        "homeImage": "img/portfolio/satoshi3.png",
+        "videoUrl": "https://media.niftygateway.com/video/upload/q_auto:good,w_500/v1618355039/A/EncodeGraphics/OpenEditions/SATOSH1_x_Lady_Liberty_animated_color_variant_sczapp.mp4",
+        "title": "SATOSH1 x Lady Liberty I.",
+        "excerpt": "SATOSH1 x Lady Liberty I. (animated color variant) #5/36",
+        "categories": ["ENCODE"],
+        "client": "Four",
+        "date": "April 17th <br />2021",
+        "team": "By: ENCODE",
+        "services": "Niftygateway",
+        "body": [
+            "<p>SATOSH1 x Lady Liberty I. (animated color variant) #5/36</p>"
+        ],
+        "pageUrl": {
+            "text": "https://Niftygateway.com",
+            "link": "https://media.niftygateway.com/video/upload/q_auto:good,w_500/v1618355039/A/EncodeGraphics/OpenEditions/SATOSH1_x_Lady_Liberty_animated_color_variant_sczapp.mp4"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/satoshi3.png",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 28,
+        "type": "image",
+        "homeImage": "img/portfolio/btc.gif",
+        "title": "The Bitcoin Bottle",
+        "excerpt": "The Bitcoin Bottle",
+        "categories": ["art", "btc"],
+        "client": "One",
+        "date": "September 19th<br />2020",
+        "team": "By: Maikeul",
+        "services": "Rarible",
+        "body": [
+            "<p>The Bitcoin Bottle</p>"
+        ],
+        "pageUrl": {
+            "text": "https://Rarible.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/btc.gif",
+            "imageTwo": "./img/portfolio/error.png",
+            "imageThree": "./img/portfolio/s3.png",
+            "imageFour": "./img/portfolio/sv1.png",
+            "imageFive": "./img/portfolio/error.png"
+        }
+        
+    },
+    {
+        "id": 29,
+        "type": "image",
+        "homeImage": "img/portfolio/tez.gif",
+        "title": "The Tezos Bottle",
+        "excerpt": "The Tezos Bottle",
+        "categories": ["art", "tez"],
+        "client": "One",
+        "date": "September 25th<br />2020",
+        "team": "By: Maikeul",
+        "services": "Rarible",
+        "body": [
+            "<p>The Tezos Bottle</p>"
+        ],
+        "pageUrl": {
+            "text": "https://Rarible.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/tez.gif",
+            "imageTwo": "./img/portfolio/error.png",
+            "imageThree": "./img/portfolio/s3.png",
+            "imageFour": "./img/portfolio/sv1.png",
+            "imageFive": "./img/portfolio/error.png"
+        }
+        
+    },
+    {
+        "id": 30,
+        "type": "image",
+        "homeImage": "img/portfolio/clone.jpeg",
+        "title": "The F1rst Clone",
+        "excerpt": "THE F1RST CLONE — (part of the 2084 series) — find the articles about 2084...",
+        "categories": ["cyberpunk", "art"],
+        "client": "One",
+        "date": "August 19th<br />2020",
+        "team": "By: Pr1mal Cypher",
+        "services": "Makersplace",
+        "body": [
+            "<p>THE F1RST CLONE — (part of the 2084 series) — find the articles about 2084 on the SuperRare Editorial. 9/9 variant beside the original 1/1 variant</p>"
+        ],
+        "pageUrl": {
+            "text": "https://Makersplace.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/clone.jpeg",
+            "imageTwo": "./img/portfolio/error.png",
+            "imageThree": "./img/portfolio/s3.png",
+            "imageFour": "./img/portfolio/sv1.png",
+            "imageFive": "./img/portfolio/error.png"
+        }
+        
+    },
+    {
+        "id": 31,
+        "type": "image",
+        "homeImage": "img/portfolio/daat.jpeg",
+        "title": "Da'at, Emanation of Emptiness",
+        "excerpt": "Ein Sof fills the world with so much Light; it opens the eyes of Creation and widens the mouth of Existence...",
+        "categories": ["spiritual"],
+        "client": "One",
+        "date": "September 30th<br />2021",
+        "team": "By: Peter Mohrbacher",
+        "services": "Makersplace",
+        "body": [
+            "<p>Ein Sof fills the world with so much Light; it opens the eyes of Creation and widens the mouth of Existence. The many faces of Da’at turn and turn in that Light, catching the overflow within the Crown of the Mind. Da’at holds the Sephirot as a word might carry many meanings.</p>"
+        ],
+        "pageUrl": {
+            "text": "https://Makersplace.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/daat.jpeg",
+            "imageTwo": "./img/portfolio/error.png",
+            "imageThree": "./img/portfolio/s3.png",
+            "imageFour": "./img/portfolio/sv1.png",
+            "imageFive": "./img/portfolio/error.png"
+        }
+        
+    },
+    {
+        "id": 32,
+        "type": "image",
+        "homeImage": "img/portfolio/ck01.png",
+        "title": "3/4 Boot 2R C 2W",
+        "excerpt": "bows! My name is 3/4 Boot 2R C 2W...",
+        "categories": ["genesis"],
+        "client": "Two",
+        "date": "Minted: July 9th <br />2018 (12:57PM)",
+        "team": "By: CryptoKitties",
+        "services": "CryptoKitties",
+        "body": [
+            "<p>\"<i>bows!</i> My name is 3/4 Boot 2R C 2W. My best friend is a fairy. Everything I own is magenta, even my litterbox! Goodnight, I'm going to sleep.\"</p>",
+            "<p><b>This was the first NFT I ever collected.</b></p>"
+        ],
+        "pageUrl": {
+            "text": "https://cryptokitties.co",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/ck01.png",
+            "imageTwo": "./img/portfolio/error.png",
+            "imageThree": "./img/portfolio/s3.png",
+            "imageFour": "./img/portfolio/sv1.png",
+            "imageFive": "./img/portfolio/error.png"
+        }
+        
+    },
+    {
+        "id": 33,
+        "type": "image",
+        "homeImage": "img/portfolio/mass.svg",
+        "title": "m(2) #10174",
+        "excerpt": "m(2) #10174",
+        "categories": ["featured","pak"],
+        "client": "four",
+        "date": "December 2nd <br />2021",
+        "team": "By: Pak",
+        "services": "Niftygateway",
+        "body": [
+            "<p>Merge By: Pak</p>"
+        ],
+        "pageUrl": {
+            "text": "https://Niftygateway.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/mass.svg",
+            "imageTwo": "./img/portfolio/error.png",
+            "imageThree": "./img/portfolio/s3.png",
+            "imageFour": "./img/portfolio/sv1.png",
+            "imageFive": "./img/portfolio/error.png"
+        }
+        
+    },
+    {
+        "id": 34,
+        "type": "image",
+        "homeImage": "img/portfolio/cheetah.png",
+        "title": "Cheetah Spirit",
+        "excerpt": "Cheetah Spirit",
+        "categories": ["featured","spiritual"],
+        "client": "one",
+        "date": "September 25th <br />2020",
+        "team": "By: Madolf D",
+        "services": "Rarible",
+        "body": [
+            "<p>Cheetah Spirit By: Madolf D</p>"
+        ],
+        "pageUrl": {
+            "text": "https://Rarible.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/cheetah.png",
+            "imageTwo": "./img/portfolio/error.png",
+            "imageThree": "./img/portfolio/s3.png",
+            "imageFour": "./img/portfolio/sv1.png",
+            "imageFive": "./img/portfolio/error.png"
+        }
+        
+    }
+]

@@ -1,0 +1,125 @@
+[
+    {
+        "id": "about me",
+        "title": "\"Hello\", on Behalf of the LCAH",
+        "excerpt": "We started as a humble art vault with one single piece in our collection. <br />Over the years we have nurtured relationships and grown our collection to our liking. <br />We have no plans of stopping, and are just getting started in this new digital-era that we find ourselves in."
+    },
+    {
+        "id": "about service",
+        "title": "MTD Services",
+        "pagelinkText": [
+            "Solidity & Smart-Contract",
+            "Web3 & React JS",
+            "C# Unity",
+            "Consultation"
+        ]
+    },
+    {
+        "id": "team",
+        "title": "Meet Our Team",
+        "team": [
+            {
+                "id": 1,
+                "classOption": "team-member",
+                "image": "./img/team/01.jpg",
+                "name": "Michael Cohee",
+                "designation": "CEO Founder"
+            },
+            {
+                "id": 2,
+                "classOption": "team-member",
+                "image": "./img/team/02.jpeg",
+                "name": "Proteu5",
+                "designation": "Collector//Developer"
+            },
+            {
+                "id": 3,
+                "classOption": "team-member become-member",
+                "image": "./img/team/01.jpg",
+                "name": "Become <br>member in <br>LCAH//MTD"
+            }
+        ]
+    },
+    {
+        "id": "blockquote",
+        "excerpt": "I’ve worked on many projects throughout the years,<br />I’ve found Web3 to be among the most innovative.",
+        "name": "Michael Cohee",
+        "designation": "CEO at LCAH"
+    },
+    {
+        "id": "about gallery",
+        "gallery": {
+            "imageOne": "./img/photos/g-01.png",
+            "imageTwo": "./img/photos/g-02.png",
+            "imageThree": "./img/photos/g-03.png"
+        }
+    },
+    {
+        "id": "Awards",
+        "title": "Active Roadmap",
+        "yearOne": "2022",
+        "yearTwo": "2019-2021",
+        "awardItem": [
+            {
+                "id": 1,
+                "cate": "Showcase MTD",
+                "title": "Showcase Meta-Tree Development <span>Projects</span>"
+            },
+            {
+                "id": 2,
+                "cate": "Curation",
+                "title": "Continue LCAH Art Curation & <span>Collecting</span>"
+            },
+            {
+                "id": 3,
+                "cate": "S-Corp",
+                "title": "Complete S-Corp Filing <span>for Status</span>"
+            },
+            {
+                "id": 4,
+                "cate": "Expand MTD Inc.,",
+                "title": "Explore Development Oppotunities with <span>Web3</span>"
+            },
+            {
+                "id": 5,
+                "cate": "Amass Collection",
+                "title": "Acquire Art <span>Cross-Platforms</span>"
+            }
+        ]
+    },
+    {
+        "id": "Brand",
+        "title": "Chosen Marketplaces",
+        "excerpt": "The LCAH is proud to hold art on:",
+        "brand": [
+            {
+                "id": 1,
+                "image": "./img/brand-logo/01.jpeg"
+            },
+            {
+                "id": 2,
+                "image": "./img/brand-logo/02.png"
+            },
+            {
+                "id": 3,
+                "image": "./img/brand-logo/03.png"
+            },
+            {
+                "id": 4,
+                "image": "./img/brand-logo/04.jpeg"
+            },
+            {
+                "id": 5,
+                "image": "./img/brand-logo/05.png"
+            },
+            {
+                "id": 6,
+                "image": "./img/brand-logo/06.png"
+            },
+            {
+                "id": 7,
+                "image": "./img/brand-logo/07.png"
+            }
+        ]
+    }
+]

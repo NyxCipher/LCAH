@@ -1,0 +1,33 @@
+[
+    {
+        "slider": [
+            {
+                "id": 1,
+                "backgroundImage": "/img/hero-slider/hero1.jpg",
+                "title": "Inception Date",
+                "subTitle": "march 2020",
+                "desc": "The LCAH was founded by Meta-Tree Development Studios",
+                "buttonText": "Explore now"
+            },
+            {
+                "id": 2,
+                "backgroundImage": "/img/hero-slider/hero1.jpg",
+                "title": "Inception Date",
+                "subTitle": "march 2020",
+                "desc": "The LCAH was founded by Meta-Tree Development Studios",
+                "buttonText": "Explore now"
+            },
+            {
+                "id": 3,
+                "backgroundImage": "/img/hero-slider/hero1.jpg",
+                "title": "Inception Date",
+                "subTitle": "march 2020",
+                "desc": "The LCAH was founded by Meta-Tree Development Studios",
+                "buttonText": "Explore now"
+            }
+        ]
+    },
+    {
+        "qute": "\"Those who do not want to imitate anything, produce nothing.\"<br /> <i><b>Salvador Dali</b></i>"
+    }
+]
